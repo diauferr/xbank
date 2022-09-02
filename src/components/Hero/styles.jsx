@@ -6,3 +6,7 @@ export const Container = styled.div`
 
 export const Hero = styled.img`
 `;
+
+export const H1 = styled.h1`
+    margin: 0;
+`;

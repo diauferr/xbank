@@ -10,7 +10,7 @@ import * as s from './styles'
 export default function Hero() {
     return (
         <s.Container>
-            <h1>O único banco digital que irá te auxiliar em tudo o que você precisa</h1>
+            <s.H1>O único banco digital que irá te auxiliar em tudo o que você precisa</s.H1>
             <h3>Fazemos de tudo para que você esteja seguro e tenha uma experiência rápida, boa e com muita comodidade.</h3>
             <button>Faça parte conosco</button>
             <div>
