@@ -17,3 +17,5 @@ function App() {
 }
 
 export default App
+
+// https://www.figma.com/file/tDzNa5J9Kp0LAwd1pzqKBw/X-bank-App?node-id=356%3A5963
