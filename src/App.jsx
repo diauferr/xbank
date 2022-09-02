@@ -1,17 +1,12 @@
-import reactLogo from './assets/react.svg'
-
 import Navbar from './components/Navbar'
-
-import './App.css'
+import Hero from './components/Hero'
 
 function App() {
 
   return (
     <div className="App">
       <Navbar></Navbar>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <Hero></Hero>
     </div>
   )
 }
